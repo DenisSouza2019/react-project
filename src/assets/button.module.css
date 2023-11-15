@@ -1,0 +1,9 @@
+.myButton{
+    padding: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color:blue;
+    border-radius: 4px;
+}

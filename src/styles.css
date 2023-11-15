@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+    
+}
+
+* {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode";
+  /* //background-color: #181c23; */
+  /* background-color:red;
+  color: #fff;  */
+}
+
+h1 {
+  margin: 0;
+}
